@@ -1,6 +1,6 @@
 # Grocery List Organizer
 
-A simple Python project to create and manage a list of grocery items.
+A simple Python project for managing and creating a list of grocery items. Created to practice OOP, file handling, and basic Python skills.
 
 ## Features
 - Add grocery items with quantity and category
