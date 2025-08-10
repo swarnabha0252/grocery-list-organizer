@@ -8,3 +8,9 @@ A simple Python project for managing and creating a list of grocery items. Creat
 - View all items with status
 - View items by category
 - Export grocery list to a text (.txt) file
+
+## How to Use
+1. Make sure you have Python 3 installed.
+2. Run the `main.py` file from your terminal:
+   ```bash
+   python main.py
